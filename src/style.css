@@ -1,0 +1,17 @@
+*{
+    background: wheat;
+    text-align: center;
+}
+a{
+    margin: 5px;
+    color: #a52a2a;
+}
+a:visited{
+    color: gray;
+}
+a:hover{
+    color: blue;
+}
+img{
+    border-radius: 10px;
+}
